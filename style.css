@@ -1,0 +1,10 @@
+body{
+    background: #ff0000 ;
+}
+h1{
+    text-align: center;
+    color: rgb(217, 255, 0);
+    font-size: 55px;
+    font-style: inherit;
+    border: 3px solid;
+}
